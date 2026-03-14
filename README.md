@@ -1,5 +1,4 @@
-# # Restaurant Management & Ordering System
-![Banner](./restaurant_project_banner.png)
+# Restaurant Management & Ordering System
 
 ### Overview
 A high-performance management system for restaurants to handle digital ordering and inventory. Engineered for speed and intuitive user experience.
